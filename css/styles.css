@@ -169,6 +169,7 @@ body {
 	.tweet-actions {
 		text-align: right;
 	}
+
 		.tweet-actions ul {
 			list-style-type: none;
 		}
@@ -259,6 +260,14 @@ body {
 				left: 0;
 			}
 
+.tweetHidden {
+	display: none;
+}
+
+.visible {
+	visibility: visible;
+}
+
 .hidden {
 	visibility: hidden;
 }
@@ -266,5 +275,6 @@ body {
 .red {
 	color: red;
 }
+
 
 
